@@ -5,7 +5,7 @@ public class RelatorioCliente
 
     public static void main(String[] args)
     {
-        System.out.println("Relatorio Cliente");
+        System.out.println("Relatorio Clientes Inativos");
     }
 
 }
