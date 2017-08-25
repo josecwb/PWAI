@@ -1,11 +1,11 @@
 package br.edu.opet.aplicacao;
 
-public class Tela
+public class RelatorioCliente
 {
 
     public static void main(String[] args)
     {
-       System.out.println("Alo Mundo!");
+        System.out.println("Relatorio Cliente");
     }
 
 }
