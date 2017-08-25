@@ -5,7 +5,7 @@ public class Teste
 
     public static void main(String[] args)
     {
-      Tela.main(null);
+      Tela.main(new String[] {"Ana"});
     }
 
 }
